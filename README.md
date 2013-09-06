@@ -66,8 +66,8 @@
 ![Places](https://raw.github.com/shaqhuang/wedding/master/img/hongfenglake-2.jpg)
 ![Places](https://raw.github.com/shaqhuang/wedding/master/img/hongfenglake-3.jpg)
 ![Places](https://raw.github.com/shaqhuang/wedding/master/img/hongfenglake-4.jpg)
-![Places](https://raw.github.com/shaqhuang/wedding/master/img/hongfenglake-5.jpg)
-![Places](https://raw.github.com/shaqhuang/wedding/master/img/hongfenglake-6.jpg)
+![Places](https://raw.github.com/shaqhuang/wedding/master/img/hongfenglake-5.png)
+![Places](https://raw.github.com/shaqhuang/wedding/master/img/hongfenglake-6.png)
 
 **码头** - Confluence of three seas, Indian Ocean, Bay of Bengal and Arabian Sea. Thiruvalluvar statue and Vivekananda rock. Mathur Hanging Trough  
 **苗寨** - Muttom, Sanguthurai, Sothavilai, Thengapattinam, Thekurrichi and a lot more.
