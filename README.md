@@ -1,35 +1,36 @@
 # 黄少奎 刘雨寒
 **2013年10月19日**
-*[![location](https://raw.github.com/rayber/wedding/master/images/location.png)][1]清镇市, 贵阳, 贵州*
+*[![location](https://raw.github.com/shaqhuang/wedding/master/img/location.png)][1]清镇市, 贵阳, 贵州*
 
 ------------------------
 
 ### Welcome
 
-![Bubby & Praylin](https://raw.github.com/rayber/wedding/master/images/bubby-and-praylin.jpg)
+![少奎 & 雨寒](https://raw.github.com/shaqhuang/wedding/master/img/shaq-and-yuhan.png)
 
-Hello friends, we cant wait to celebrate our wedding in gods own country on 29 April 2013. We would love to have your gracious presence on this occassion. Please plan your travel and book tickets in advance and get ready for the party.  
+各位朋友, we cant wait to celebrate our wedding in gods own country on 29 April 2013. We would love to have your gracious presence on this occassion. Please plan your travel and book tickets in advance and get ready for the party.  
 
 ------------------------
 
 ### 婚礼计划
 
-婚礼将分两天进行举办。10月19日为婚宴，
-10月20日将有一个小型派对
+婚礼将在美丽的红枫湖滨湖城市清镇市举办。仪式
+
 The wedding ceremony will be traditional pentecostal marriage where both the bride and groom will be in white and white attire. The ceremony would be having some songs followed by marriage function followed by a message by pastors. Once the marriage ceremony is over there'll be a wedding reception at Isola Di Cocco Resort, Poovar, Kerala.
 
-**Ceremony** *10:30 AM - 12:30 PM*
-The Pentecostal mission, Chaani, kerala
+**婚礼仪式** *11:30 AM - 13:00 PM*
+[![location](https://raw.github.com/rayber/wedding/master/images/location.png)][4]
+兴隆半岛, 红枫湖, 清镇市
 
 
-**Lunch** *12:30 PM - 2:30 PM*
+**中餐** *12:30 PM - 2:30 PM*
 [![location](https://raw.github.com/rayber/wedding/master/images/location.png)][3]
-ISOLA DI COCCO Resort, Poovar, Kerala
+户外烧烤，红枫湖兴隆半岛,清镇市/海宴酒楼, 云岭大街, 清镇市
 
 
-**Dinner** *6 PM - 9 PM*
+**晚餐 ** *6 PM - 9 PM*
 [![location](https://raw.github.com/rayber/wedding/master/images/location.png)][2]
-Vijeyetha Wedding Hall, Nagercoil, TamilNadu
+海宴酒楼, 云岭大街, 清镇市
 
 ------------------------
 
@@ -76,3 +77,4 @@ Padmanabapuram Palace of Travancore kingdom
 [1]: http://goo.gl/maps/szN2X
 [2]: http://j.map.baidu.com/CQmAl
 [3]: http://goo.gl/maps/w4uns
+[4]: http://goo.gl/maps/w4uns
