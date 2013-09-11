@@ -62,7 +62,7 @@
 
 ------------------------
 
-[RSVP](https://github.com/rayber/wedding/issues)
+[RSVP](https://github.com/shaqhuang/wedding/issues)
 
 [1]: http://j.map.baidu.com/Fyb4l
 [2]: http://j.map.baidu.com/CQmAl
