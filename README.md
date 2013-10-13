@@ -6,7 +6,7 @@
 
 ### Welcome
 
-![少奎 & 雨寒](https://raw.github.com/shaqhuang/wedding/master/img/shaq-and-yuhan.png)
+![少奎 & 雨寒](https://raw.github.com/shaqhuang/wedding/master/img/shaqandyuhan.JPG)
 
 各位朋友, 我们诚邀你来参加我们于2013年10月19日在清镇市举办的婚礼，从金阳客车站乘坐大巴过来约20分钟车程，对于外地的朋友们来说这或许会有一些不方便，但是我们十分需要你的到场！请即刻制定旅行计划吧，有关地点或订票的问题，可以详询我们，我们也精心准备了路线的说明。
 
