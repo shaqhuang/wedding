@@ -64,6 +64,6 @@
 
 [RSVP](https://github.com/shaqhuang/wedding/issues)
 
-[1]: http://j.map.baidu.com/Fyb4l
-[2]: http://j.map.baidu.com/CQmAl
-[3]: http://j.map.baidu.com/Fyb4l
+[1]: hhttp://api.map.baidu.com/marker?output=html&location=106.467654,26.554567&title=华电东电公司&content=黄少奎婚礼仪式
+[2]: http://api.map.baidu.com/marker?output=html&location=106.467654,26.554567&title=海燕酒楼or户外&content=中餐
+[3]: http://api.map.baidu.com/marker?output=html&location=106.467654,26.554567&title=海燕酒楼&content=黄少奎婚礼晚宴
