@@ -37,7 +37,7 @@
 #### 仪式
 
 [![Map](https://raw.github.com/shaqhuang/wedding/master/img/map.png)][1]
-
+请点击图片进行导航
 
 **自驾车**: 清镇市东电公司，有充足停车位
 
